@@ -1,1 +1,4 @@
 # EcoGrowthAdvisor
+
+EcoGrow Advisor is a model designed for sustainable planting, providing tailored recommendations for tree planting based on geographic data, optimizing land use, and calculating potential Green Credits.
+
