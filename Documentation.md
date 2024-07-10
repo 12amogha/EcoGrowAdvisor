@@ -1,4 +1,5 @@
 # EcoGrow Advisor: Weighted, Regression Model-based Recommender System
+EcoGrow Advisor is a model designed for sustainable planting, providing tailored recommendations for tree planting based on geographic data, optimizing land use, and calculating potential Green Credits.
 
 ## Data
 Synthetic Dataset generated with 100 datapoints with the following parameters:
