@@ -51,3 +51,8 @@ Top 10 Recommendations:
 - **Green Credit Earnings Estimate**:
 - **Carbon Credit Earnings Estimate**:
 - **Maintenance Requirements**:
+
+## To Install the Requirements, run the below command on the terminal :
+
+**pip install -r requirements.txt** 
+
